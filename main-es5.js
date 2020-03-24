@@ -36,6 +36,298 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
   },
 
   /***/
+  "./node_modules/moment/locale sync recursive ^\\.\\/.*$":
+  /*!**************************************************!*\
+    !*** ./node_modules/moment/locale sync ^\.\/.*$ ***!
+    \**************************************************/
+
+  /*! no static exports found */
+
+  /***/
+  function node_modulesMomentLocaleSyncRecursive$(module, exports, __webpack_require__) {
+    var map = {
+      "./af": "./node_modules/moment/locale/af.js",
+      "./af.js": "./node_modules/moment/locale/af.js",
+      "./ar": "./node_modules/moment/locale/ar.js",
+      "./ar-dz": "./node_modules/moment/locale/ar-dz.js",
+      "./ar-dz.js": "./node_modules/moment/locale/ar-dz.js",
+      "./ar-kw": "./node_modules/moment/locale/ar-kw.js",
+      "./ar-kw.js": "./node_modules/moment/locale/ar-kw.js",
+      "./ar-ly": "./node_modules/moment/locale/ar-ly.js",
+      "./ar-ly.js": "./node_modules/moment/locale/ar-ly.js",
+      "./ar-ma": "./node_modules/moment/locale/ar-ma.js",
+      "./ar-ma.js": "./node_modules/moment/locale/ar-ma.js",
+      "./ar-sa": "./node_modules/moment/locale/ar-sa.js",
+      "./ar-sa.js": "./node_modules/moment/locale/ar-sa.js",
+      "./ar-tn": "./node_modules/moment/locale/ar-tn.js",
+      "./ar-tn.js": "./node_modules/moment/locale/ar-tn.js",
+      "./ar.js": "./node_modules/moment/locale/ar.js",
+      "./az": "./node_modules/moment/locale/az.js",
+      "./az.js": "./node_modules/moment/locale/az.js",
+      "./be": "./node_modules/moment/locale/be.js",
+      "./be.js": "./node_modules/moment/locale/be.js",
+      "./bg": "./node_modules/moment/locale/bg.js",
+      "./bg.js": "./node_modules/moment/locale/bg.js",
+      "./bm": "./node_modules/moment/locale/bm.js",
+      "./bm.js": "./node_modules/moment/locale/bm.js",
+      "./bn": "./node_modules/moment/locale/bn.js",
+      "./bn.js": "./node_modules/moment/locale/bn.js",
+      "./bo": "./node_modules/moment/locale/bo.js",
+      "./bo.js": "./node_modules/moment/locale/bo.js",
+      "./br": "./node_modules/moment/locale/br.js",
+      "./br.js": "./node_modules/moment/locale/br.js",
+      "./bs": "./node_modules/moment/locale/bs.js",
+      "./bs.js": "./node_modules/moment/locale/bs.js",
+      "./ca": "./node_modules/moment/locale/ca.js",
+      "./ca.js": "./node_modules/moment/locale/ca.js",
+      "./cs": "./node_modules/moment/locale/cs.js",
+      "./cs.js": "./node_modules/moment/locale/cs.js",
+      "./cv": "./node_modules/moment/locale/cv.js",
+      "./cv.js": "./node_modules/moment/locale/cv.js",
+      "./cy": "./node_modules/moment/locale/cy.js",
+      "./cy.js": "./node_modules/moment/locale/cy.js",
+      "./da": "./node_modules/moment/locale/da.js",
+      "./da.js": "./node_modules/moment/locale/da.js",
+      "./de": "./node_modules/moment/locale/de.js",
+      "./de-at": "./node_modules/moment/locale/de-at.js",
+      "./de-at.js": "./node_modules/moment/locale/de-at.js",
+      "./de-ch": "./node_modules/moment/locale/de-ch.js",
+      "./de-ch.js": "./node_modules/moment/locale/de-ch.js",
+      "./de.js": "./node_modules/moment/locale/de.js",
+      "./dv": "./node_modules/moment/locale/dv.js",
+      "./dv.js": "./node_modules/moment/locale/dv.js",
+      "./el": "./node_modules/moment/locale/el.js",
+      "./el.js": "./node_modules/moment/locale/el.js",
+      "./en-SG": "./node_modules/moment/locale/en-SG.js",
+      "./en-SG.js": "./node_modules/moment/locale/en-SG.js",
+      "./en-au": "./node_modules/moment/locale/en-au.js",
+      "./en-au.js": "./node_modules/moment/locale/en-au.js",
+      "./en-ca": "./node_modules/moment/locale/en-ca.js",
+      "./en-ca.js": "./node_modules/moment/locale/en-ca.js",
+      "./en-gb": "./node_modules/moment/locale/en-gb.js",
+      "./en-gb.js": "./node_modules/moment/locale/en-gb.js",
+      "./en-ie": "./node_modules/moment/locale/en-ie.js",
+      "./en-ie.js": "./node_modules/moment/locale/en-ie.js",
+      "./en-il": "./node_modules/moment/locale/en-il.js",
+      "./en-il.js": "./node_modules/moment/locale/en-il.js",
+      "./en-nz": "./node_modules/moment/locale/en-nz.js",
+      "./en-nz.js": "./node_modules/moment/locale/en-nz.js",
+      "./eo": "./node_modules/moment/locale/eo.js",
+      "./eo.js": "./node_modules/moment/locale/eo.js",
+      "./es": "./node_modules/moment/locale/es.js",
+      "./es-do": "./node_modules/moment/locale/es-do.js",
+      "./es-do.js": "./node_modules/moment/locale/es-do.js",
+      "./es-us": "./node_modules/moment/locale/es-us.js",
+      "./es-us.js": "./node_modules/moment/locale/es-us.js",
+      "./es.js": "./node_modules/moment/locale/es.js",
+      "./et": "./node_modules/moment/locale/et.js",
+      "./et.js": "./node_modules/moment/locale/et.js",
+      "./eu": "./node_modules/moment/locale/eu.js",
+      "./eu.js": "./node_modules/moment/locale/eu.js",
+      "./fa": "./node_modules/moment/locale/fa.js",
+      "./fa.js": "./node_modules/moment/locale/fa.js",
+      "./fi": "./node_modules/moment/locale/fi.js",
+      "./fi.js": "./node_modules/moment/locale/fi.js",
+      "./fo": "./node_modules/moment/locale/fo.js",
+      "./fo.js": "./node_modules/moment/locale/fo.js",
+      "./fr": "./node_modules/moment/locale/fr.js",
+      "./fr-ca": "./node_modules/moment/locale/fr-ca.js",
+      "./fr-ca.js": "./node_modules/moment/locale/fr-ca.js",
+      "./fr-ch": "./node_modules/moment/locale/fr-ch.js",
+      "./fr-ch.js": "./node_modules/moment/locale/fr-ch.js",
+      "./fr.js": "./node_modules/moment/locale/fr.js",
+      "./fy": "./node_modules/moment/locale/fy.js",
+      "./fy.js": "./node_modules/moment/locale/fy.js",
+      "./ga": "./node_modules/moment/locale/ga.js",
+      "./ga.js": "./node_modules/moment/locale/ga.js",
+      "./gd": "./node_modules/moment/locale/gd.js",
+      "./gd.js": "./node_modules/moment/locale/gd.js",
+      "./gl": "./node_modules/moment/locale/gl.js",
+      "./gl.js": "./node_modules/moment/locale/gl.js",
+      "./gom-latn": "./node_modules/moment/locale/gom-latn.js",
+      "./gom-latn.js": "./node_modules/moment/locale/gom-latn.js",
+      "./gu": "./node_modules/moment/locale/gu.js",
+      "./gu.js": "./node_modules/moment/locale/gu.js",
+      "./he": "./node_modules/moment/locale/he.js",
+      "./he.js": "./node_modules/moment/locale/he.js",
+      "./hi": "./node_modules/moment/locale/hi.js",
+      "./hi.js": "./node_modules/moment/locale/hi.js",
+      "./hr": "./node_modules/moment/locale/hr.js",
+      "./hr.js": "./node_modules/moment/locale/hr.js",
+      "./hu": "./node_modules/moment/locale/hu.js",
+      "./hu.js": "./node_modules/moment/locale/hu.js",
+      "./hy-am": "./node_modules/moment/locale/hy-am.js",
+      "./hy-am.js": "./node_modules/moment/locale/hy-am.js",
+      "./id": "./node_modules/moment/locale/id.js",
+      "./id.js": "./node_modules/moment/locale/id.js",
+      "./is": "./node_modules/moment/locale/is.js",
+      "./is.js": "./node_modules/moment/locale/is.js",
+      "./it": "./node_modules/moment/locale/it.js",
+      "./it-ch": "./node_modules/moment/locale/it-ch.js",
+      "./it-ch.js": "./node_modules/moment/locale/it-ch.js",
+      "./it.js": "./node_modules/moment/locale/it.js",
+      "./ja": "./node_modules/moment/locale/ja.js",
+      "./ja.js": "./node_modules/moment/locale/ja.js",
+      "./jv": "./node_modules/moment/locale/jv.js",
+      "./jv.js": "./node_modules/moment/locale/jv.js",
+      "./ka": "./node_modules/moment/locale/ka.js",
+      "./ka.js": "./node_modules/moment/locale/ka.js",
+      "./kk": "./node_modules/moment/locale/kk.js",
+      "./kk.js": "./node_modules/moment/locale/kk.js",
+      "./km": "./node_modules/moment/locale/km.js",
+      "./km.js": "./node_modules/moment/locale/km.js",
+      "./kn": "./node_modules/moment/locale/kn.js",
+      "./kn.js": "./node_modules/moment/locale/kn.js",
+      "./ko": "./node_modules/moment/locale/ko.js",
+      "./ko.js": "./node_modules/moment/locale/ko.js",
+      "./ku": "./node_modules/moment/locale/ku.js",
+      "./ku.js": "./node_modules/moment/locale/ku.js",
+      "./ky": "./node_modules/moment/locale/ky.js",
+      "./ky.js": "./node_modules/moment/locale/ky.js",
+      "./lb": "./node_modules/moment/locale/lb.js",
+      "./lb.js": "./node_modules/moment/locale/lb.js",
+      "./lo": "./node_modules/moment/locale/lo.js",
+      "./lo.js": "./node_modules/moment/locale/lo.js",
+      "./lt": "./node_modules/moment/locale/lt.js",
+      "./lt.js": "./node_modules/moment/locale/lt.js",
+      "./lv": "./node_modules/moment/locale/lv.js",
+      "./lv.js": "./node_modules/moment/locale/lv.js",
+      "./me": "./node_modules/moment/locale/me.js",
+      "./me.js": "./node_modules/moment/locale/me.js",
+      "./mi": "./node_modules/moment/locale/mi.js",
+      "./mi.js": "./node_modules/moment/locale/mi.js",
+      "./mk": "./node_modules/moment/locale/mk.js",
+      "./mk.js": "./node_modules/moment/locale/mk.js",
+      "./ml": "./node_modules/moment/locale/ml.js",
+      "./ml.js": "./node_modules/moment/locale/ml.js",
+      "./mn": "./node_modules/moment/locale/mn.js",
+      "./mn.js": "./node_modules/moment/locale/mn.js",
+      "./mr": "./node_modules/moment/locale/mr.js",
+      "./mr.js": "./node_modules/moment/locale/mr.js",
+      "./ms": "./node_modules/moment/locale/ms.js",
+      "./ms-my": "./node_modules/moment/locale/ms-my.js",
+      "./ms-my.js": "./node_modules/moment/locale/ms-my.js",
+      "./ms.js": "./node_modules/moment/locale/ms.js",
+      "./mt": "./node_modules/moment/locale/mt.js",
+      "./mt.js": "./node_modules/moment/locale/mt.js",
+      "./my": "./node_modules/moment/locale/my.js",
+      "./my.js": "./node_modules/moment/locale/my.js",
+      "./nb": "./node_modules/moment/locale/nb.js",
+      "./nb.js": "./node_modules/moment/locale/nb.js",
+      "./ne": "./node_modules/moment/locale/ne.js",
+      "./ne.js": "./node_modules/moment/locale/ne.js",
+      "./nl": "./node_modules/moment/locale/nl.js",
+      "./nl-be": "./node_modules/moment/locale/nl-be.js",
+      "./nl-be.js": "./node_modules/moment/locale/nl-be.js",
+      "./nl.js": "./node_modules/moment/locale/nl.js",
+      "./nn": "./node_modules/moment/locale/nn.js",
+      "./nn.js": "./node_modules/moment/locale/nn.js",
+      "./pa-in": "./node_modules/moment/locale/pa-in.js",
+      "./pa-in.js": "./node_modules/moment/locale/pa-in.js",
+      "./pl": "./node_modules/moment/locale/pl.js",
+      "./pl.js": "./node_modules/moment/locale/pl.js",
+      "./pt": "./node_modules/moment/locale/pt.js",
+      "./pt-br": "./node_modules/moment/locale/pt-br.js",
+      "./pt-br.js": "./node_modules/moment/locale/pt-br.js",
+      "./pt.js": "./node_modules/moment/locale/pt.js",
+      "./ro": "./node_modules/moment/locale/ro.js",
+      "./ro.js": "./node_modules/moment/locale/ro.js",
+      "./ru": "./node_modules/moment/locale/ru.js",
+      "./ru.js": "./node_modules/moment/locale/ru.js",
+      "./sd": "./node_modules/moment/locale/sd.js",
+      "./sd.js": "./node_modules/moment/locale/sd.js",
+      "./se": "./node_modules/moment/locale/se.js",
+      "./se.js": "./node_modules/moment/locale/se.js",
+      "./si": "./node_modules/moment/locale/si.js",
+      "./si.js": "./node_modules/moment/locale/si.js",
+      "./sk": "./node_modules/moment/locale/sk.js",
+      "./sk.js": "./node_modules/moment/locale/sk.js",
+      "./sl": "./node_modules/moment/locale/sl.js",
+      "./sl.js": "./node_modules/moment/locale/sl.js",
+      "./sq": "./node_modules/moment/locale/sq.js",
+      "./sq.js": "./node_modules/moment/locale/sq.js",
+      "./sr": "./node_modules/moment/locale/sr.js",
+      "./sr-cyrl": "./node_modules/moment/locale/sr-cyrl.js",
+      "./sr-cyrl.js": "./node_modules/moment/locale/sr-cyrl.js",
+      "./sr.js": "./node_modules/moment/locale/sr.js",
+      "./ss": "./node_modules/moment/locale/ss.js",
+      "./ss.js": "./node_modules/moment/locale/ss.js",
+      "./sv": "./node_modules/moment/locale/sv.js",
+      "./sv.js": "./node_modules/moment/locale/sv.js",
+      "./sw": "./node_modules/moment/locale/sw.js",
+      "./sw.js": "./node_modules/moment/locale/sw.js",
+      "./ta": "./node_modules/moment/locale/ta.js",
+      "./ta.js": "./node_modules/moment/locale/ta.js",
+      "./te": "./node_modules/moment/locale/te.js",
+      "./te.js": "./node_modules/moment/locale/te.js",
+      "./tet": "./node_modules/moment/locale/tet.js",
+      "./tet.js": "./node_modules/moment/locale/tet.js",
+      "./tg": "./node_modules/moment/locale/tg.js",
+      "./tg.js": "./node_modules/moment/locale/tg.js",
+      "./th": "./node_modules/moment/locale/th.js",
+      "./th.js": "./node_modules/moment/locale/th.js",
+      "./tl-ph": "./node_modules/moment/locale/tl-ph.js",
+      "./tl-ph.js": "./node_modules/moment/locale/tl-ph.js",
+      "./tlh": "./node_modules/moment/locale/tlh.js",
+      "./tlh.js": "./node_modules/moment/locale/tlh.js",
+      "./tr": "./node_modules/moment/locale/tr.js",
+      "./tr.js": "./node_modules/moment/locale/tr.js",
+      "./tzl": "./node_modules/moment/locale/tzl.js",
+      "./tzl.js": "./node_modules/moment/locale/tzl.js",
+      "./tzm": "./node_modules/moment/locale/tzm.js",
+      "./tzm-latn": "./node_modules/moment/locale/tzm-latn.js",
+      "./tzm-latn.js": "./node_modules/moment/locale/tzm-latn.js",
+      "./tzm.js": "./node_modules/moment/locale/tzm.js",
+      "./ug-cn": "./node_modules/moment/locale/ug-cn.js",
+      "./ug-cn.js": "./node_modules/moment/locale/ug-cn.js",
+      "./uk": "./node_modules/moment/locale/uk.js",
+      "./uk.js": "./node_modules/moment/locale/uk.js",
+      "./ur": "./node_modules/moment/locale/ur.js",
+      "./ur.js": "./node_modules/moment/locale/ur.js",
+      "./uz": "./node_modules/moment/locale/uz.js",
+      "./uz-latn": "./node_modules/moment/locale/uz-latn.js",
+      "./uz-latn.js": "./node_modules/moment/locale/uz-latn.js",
+      "./uz.js": "./node_modules/moment/locale/uz.js",
+      "./vi": "./node_modules/moment/locale/vi.js",
+      "./vi.js": "./node_modules/moment/locale/vi.js",
+      "./x-pseudo": "./node_modules/moment/locale/x-pseudo.js",
+      "./x-pseudo.js": "./node_modules/moment/locale/x-pseudo.js",
+      "./yo": "./node_modules/moment/locale/yo.js",
+      "./yo.js": "./node_modules/moment/locale/yo.js",
+      "./zh-cn": "./node_modules/moment/locale/zh-cn.js",
+      "./zh-cn.js": "./node_modules/moment/locale/zh-cn.js",
+      "./zh-hk": "./node_modules/moment/locale/zh-hk.js",
+      "./zh-hk.js": "./node_modules/moment/locale/zh-hk.js",
+      "./zh-tw": "./node_modules/moment/locale/zh-tw.js",
+      "./zh-tw.js": "./node_modules/moment/locale/zh-tw.js"
+    };
+
+    function webpackContext(req) {
+      var id = webpackContextResolve(req);
+      return __webpack_require__(id);
+    }
+
+    function webpackContextResolve(req) {
+      if (!__webpack_require__.o(map, req)) {
+        var e = new Error("Cannot find module '" + req + "'");
+        e.code = 'MODULE_NOT_FOUND';
+        throw e;
+      }
+
+      return map[req];
+    }
+
+    webpackContext.keys = function webpackContextKeys() {
+      return Object.keys(map);
+    };
+
+    webpackContext.resolve = webpackContextResolve;
+    module.exports = webpackContext;
+    webpackContext.id = "./node_modules/moment/locale sync recursive ^\\.\\/.*$";
+    /***/
+  },
+
+  /***/
   "./src/app/app-routing.module.ts":
   /*!***************************************!*\
     !*** ./src/app/app-routing.module.ts ***!
@@ -191,7 +483,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           width: '100%'
         };
         this.width = 550;
-        this.height = 400;
+        this.height = 400; // public getHistory(country){
+        //   this.covidDataService.getHistory(country).subscribe(
+        //     (data)=>{this.history = data},
+        //     (er)=> console.log(er)
+        //   )
+        // }
+
         this.title = 'covid19 Status ';
         this.countries = ['India', 'Usa', 'Italy', 'China', 'Pakistan', 'Canada', 'Germany', 'France', 'Spain', 'Australia'];
       }
@@ -213,17 +511,6 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
             return console.log(er);
           });
         }
-      }, {
-        key: "getHistory",
-        value: function getHistory(country) {
-          var _this2 = this;
-
-          this.covidDataService.getHistory(country).subscribe(function (data) {
-            _this2.history = data;
-          }, function (er) {
-            return console.log(er);
-          });
-        }
       }]);
 
       return AppComponent;
@@ -238,7 +525,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selectors: [["app-root"]],
       decls: 10,
       vars: 4,
-      consts: [["role", "banner", "routerLink", "home", 1, "toolbar", "cursor-pointer"], ["src", "assets/corona.png", 2, "height", "50px", "text-align", "left"], [1, "spacer"], [1, "mb-2"]],
+      consts: [["role", "banner", "routerLink", "home", 1, "toolbar", "cursor-pointer"], ["src", "assets/corona.png", 2, "height", "50px", "text-align", "left"], [1, "spacer"], [1, "mb-2", "pr-1"]],
       template: function AppComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
@@ -273,7 +560,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         if (rf & 2) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](3);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](ctx.title);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"]("", ctx.title, " #stayhome #staysafe");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](4);
 
@@ -555,6 +842,18 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var rxjs_operators__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
     /*! rxjs/operators */
     "./node_modules/rxjs/_esm2015/operators/index.js");
+    /* harmony import */
+
+
+    var moment__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
+    /*! moment */
+    "./node_modules/moment/moment.js");
+    /* harmony import */
+
+
+    var moment__WEBPACK_IMPORTED_MODULE_3___default =
+    /*#__PURE__*/
+    __webpack_require__.n(moment__WEBPACK_IMPORTED_MODULE_3__);
 
     var CovidDataService =
     /*#__PURE__*/
@@ -568,6 +867,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       _createClass(CovidDataService, [{
         key: "getData",
         value: function getData(country) {
+          this.getHistory(country);
           var headers = new _angular_common_http__WEBPACK_IMPORTED_MODULE_1__["HttpHeaders"]({
             "x-rapidapi-host": "coronavirus-monitor.p.rapidapi.com",
             "x-rapidapi-key": "8837c5d3c4msh517769883b6d693p1cf199jsn895aef8c65d1"
@@ -591,7 +891,35 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           var url = "https://coronavirus-monitor.p.rapidapi.com/coronavirus/cases_by_particular_country.php?country=" + country;
           return this.http.get(url, {
             headers: headers
-          });
+          }).pipe(Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_2__["map"])(function (responseData) {
+            // console.log(responseData['stat_by_country'])
+            for (var i in responseData['stat_by_country']) {
+              responseData['stat_by_country'][i].record_date = moment__WEBPACK_IMPORTED_MODULE_3__(responseData['stat_by_country'][i].record_date).format('MM-DD-YYYY');
+            } // Declare a new array
+
+
+            var newArray = []; // Declare an empty object
+
+            var uniqueObject = {}; // Loop for the array elements
+
+            for (var _i in responseData['stat_by_country']) {
+              // Extract the title
+              var objTitle = responseData['stat_by_country'][_i]['record_date']; // Use the title as the index
+
+              uniqueObject[objTitle] = responseData['stat_by_country'][_i];
+            } // Loop to push unique object into array
+
+
+            for (i in uniqueObject) {
+              var totalCases = parseInt(uniqueObject[i]['total_cases'].replace(',', ''));
+              var totaldeaths = parseInt(uniqueObject[i]['total_deaths'].replace(',', ''));
+              newArray.push([uniqueObject[i]['record_date'], totalCases, totaldeaths]);
+            } // Display the unique objects
+
+
+            console.log(newArray);
+            return newArray;
+          }));
         }
       }, {
         key: "getStatesData",
@@ -608,7 +936,6 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
               statesArray.push(Object.assign({}, responseData[key])); // statesArray.push({...responseData[key]})
             }
 
-            console.log(statesArray);
             statesArray.sort(function (a, b) {
               return a.count - b.count;
             }).reverse();
@@ -813,15 +1140,15 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony import */
 
 
-    var angular_fusioncharts__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(
-    /*! angular-fusioncharts */
-    "./node_modules/angular-fusioncharts/__ivy_ngcc__/index.js");
+    var angular_google_charts__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(
+    /*! angular-google-charts */
+    "./node_modules/angular-google-charts/__ivy_ngcc__/fesm2015/angular-google-charts.js");
     /* harmony import */
 
 
-    var angular_google_charts__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(
-    /*! angular-google-charts */
-    "./node_modules/angular-google-charts/__ivy_ngcc__/fesm2015/angular-google-charts.js");
+    var angular_fusioncharts__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(
+    /*! angular-fusioncharts */
+    "./node_modules/angular-fusioncharts/__ivy_ngcc__/index.js");
     /* harmony import */
 
 
@@ -837,7 +1164,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     function HomeComponent_mat_option_10_Template(rf, ctx) {
       if (rf & 1) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "mat-option", 28);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "mat-option", 27);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1);
 
@@ -845,13 +1172,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }
 
       if (rf & 2) {
-        var country_r3 = ctx.$implicit;
+        var country_r4 = ctx.$implicit;
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("value", country_r3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("value", country_r4);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](country_r3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](country_r4);
       }
     }
 
@@ -867,12 +1194,11 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         this.statesChart = {};
         this.countries = [];
         this.country = 'India';
-        this.history = {};
-        this.dataSource = {};
-        this.chartTitle = '';
-        this.type = 'PieChart';
+        this.historyData = {};
+        this.indiaMapChartData = {};
+        this.mapData = {};
         this.options = {
-          is3D: true,
+          width: 350,
           height: 900
         };
         this.width = 350;
@@ -885,10 +1211,10 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           }, {
             role: 'annotation'
           }],
-          'chartTitle': 'States and UTs'
+          'chartTitle': 'Number of reported cases in States and UTs of India'
         };
         this.countries = ['India', 'Usa', 'Italy', 'China', 'Pakistan', 'Canada', 'Germany', 'France', 'Spain', 'Australia'];
-        this.dataSource = {
+        this.indiaMapChartData = {
           chart: {
             animation: "0",
             showlabel: "1",
@@ -912,7 +1238,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
             minvalue: "0",
             startlabel: "Low",
             endlabel: "High",
-            code: "e27c25",
+            code: "ffc296",
             gradient: "1",
             color: [{
               maxvalue: "5",
@@ -930,6 +1256,21 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
             value: 3182
           }]
         };
+        this.historyData = {
+          title: 'Reported Case History of ' + this.country,
+          type: 'LineChart',
+          data: [],
+          columnNames: ["Date", "Reported Cases", "Reported Deaths"],
+          options: {
+            hAxis: {
+              title: 'Date'
+            },
+            vAxis: {
+              title: 'Reported Cases'
+            },
+            pointSize: 5
+          }
+        };
       }
 
       _createClass(HomeComponent, [{
@@ -937,33 +1278,35 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         value: function ngOnInit() {
           this.getCovidUpdate(this.country);
           this.getHistory(this.country);
-          this.innerWidth = window.innerWidth - 50;
+          this.options.width = window.innerWidth - 50;
           this.getStatesSegrigatedData();
         }
       }, {
         key: "onResize",
         value: function onResize(event) {
-          this.innerWidth = window.innerWidth - 50;
+          this.options.width = window.innerWidth - 50;
         }
       }, {
         key: "getCovidUpdate",
         value: function getCovidUpdate(country) {
-          var _this3 = this;
+          var _this2 = this;
 
-          // console.log(country)
+          this.country = country; // console.log(country)
+
           this.covidDataService.getData(country).subscribe(function (data) {
-            _this3.covidData = data, _this3.stats = data['latest_stat_by_country'][0];
+            _this2.covidData = data, _this2.stats = data['latest_stat_by_country'][0];
           }, function (er) {
             return console.log(er);
           });
+          this.getHistory(this.country);
         }
       }, {
         key: "getHistory",
         value: function getHistory(country) {
-          var _this4 = this;
+          var _this3 = this;
 
           this.covidDataService.getHistory(country).subscribe(function (data) {
-            _this4.history = data;
+            _this3.historyData['data'] = data;
           }, function (er) {
             return console.log(er);
           });
@@ -971,10 +1314,10 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "getStatesSegrigatedData",
         value: function getStatesSegrigatedData() {
-          var _this5 = this;
+          var _this4 = this;
 
           this.covidDataService.getStatesData().subscribe(function (data) {
-            _this5.statesChart['states'] = data['statesArrayData'], _this5.dataSource['data'] = data['mapdata'], console.log(data);
+            _this4.statesChart['states'] = data['statesArrayData'], _this4.indiaMapChartData['data'] = data['mapdata'];
           }, function (err) {
             return console.log(err);
           });
@@ -999,11 +1342,11 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         }
       },
       decls: 79,
-      vars: 19,
-      consts: [["role", "main", 1, "content", "conent-padding"], [2, "background", "#fff"], [1, "card", "highlight-card", "card-small", "app-padding", 2, "justify-content", "left"], ["mat-icon-button", "", "matTooltip", "Language", 1, "pl-4", 3, "click"], [1, "text-primary"], [1, "langSelect", 3, "value", "valueChange", "selectionChange"], ["select", ""], [3, "value", 4, "ngFor", "ngForOf"], [1, "pl-4", "text-primary"], [1, "card-container", "row", "no-margin"], ["tabindex", "0", 1, "card", "card-small", "app-padding", "col-12", "col-md-3"], [2, "color", "#32a3ff"], [1, "pl-1"], [2, "color", "#ff7b1c"], [2, "color", "#901c21"], [2, "color", "#ff666d"], [2, "color", "#47cd57"], [2, "color", "#ffd835"], ["tabindex", "0", 1, "card", "card-small", "app-padding", "col-12", "col-md-12", "mb-0", 2, "border-bottom", "none"], [2, "color", "#6e6e6e"], [1, "col-md-12", "border", "text-center"], ["height", "550", "type", "india", 3, "width", "dataSource"], ["tabindex", "0", 1, "col-md-12", "border", 2, "border-top", "0"], [3, "title", "type", "data", "columnNames", "options", "width"], ["chart", ""], [1, "pl-1", "text-primary"], ["routerLink", "/centers"], [1, "pl-2"], [3, "value"]],
+      vars: 25,
+      consts: [["role", "main", 1, "content", "conent-padding"], [2, "background", "#fff"], [1, "card", "highlight-card", "card-small", "app-padding", 2, "justify-content", "left"], ["mat-icon-button", "", "matTooltip", "Language", 1, "pl-4", 3, "click"], [1, "text-primary"], [1, "langSelect", 3, "value", "valueChange", "selectionChange"], ["select", ""], [3, "value", 4, "ngFor", "ngForOf"], [1, "pl-4", "text-primary"], [1, "card-container", "row", "no-margin"], ["tabindex", "0", 1, "card", "card-small", "app-padding", "col-12", "col-md-3"], [2, "color", "#32a3ff"], [1, "pl-1"], [2, "color", "#ff7b1c"], [2, "color", "#901c21"], [2, "color", "#ff666d"], [2, "color", "#47cd57"], [2, "color", "#ffd835"], ["tabindex", "0", 1, "col-md-12", "border"], ["height", "800", 3, "title", "type", "data", "columnNames", "options", "width"], ["chart", ""], [3, "title", "type", "data", "columnNames", "options", "width"], [1, "col-md-12", "border", "text-center", "d-none", "d-md-block"], ["height", "550", "type", "india", 3, "width", "dataSource"], [1, "pl-1", "text-primary"], ["routerLink", "/centers"], [1, "pl-2"], [3, "value"]],
       template: function HomeComponent_Template(rf, ctx) {
         if (rf & 1) {
-          var _r4 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
+          var _r5 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
 
@@ -1014,7 +1357,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "button", 3);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function HomeComponent_Template_button_click_3_listener() {
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r4);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r5);
 
             var _r0 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵreference"](9);
 
@@ -1225,23 +1568,19 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](64, "div", 18);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](65, "span", 19);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](66, "TOTAL CASES REGISTERED By STATES IN INDIA");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](65, "google-chart", 19, 20);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](67, "div", 18);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](67, "div", 20);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](68, "fusioncharts", 21);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](68, "google-chart", 21, 20);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](69, "div", 22);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](70, "div", 22);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](70, "google-chart", 23, 24);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](71, "fusioncharts", 23);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -1253,11 +1592,11 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](73, "div", 2);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](74, "span", 25);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](74, "span", 24);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](75, "a", 26);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](75, "a", 25);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](76, "b", 27);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](76, "b", 26);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](77, "Help Centers and Labs for Covid 19");
 
@@ -1321,16 +1660,20 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"](" ", ctx.stats["total_cases_per1m"], "");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](5);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("width", ctx.innerWidth)("dataSource", ctx.dataSource);
-
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("title", ctx.statesChart["chartTitle"])("type", ctx.statesChart["type"])("data", ctx.statesChart["states"])("columnNames", ctx.statesChart["columnNames"])("options", ctx.options)("width", ctx.innerWidth);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("title", ctx.historyData["title"])("type", ctx.historyData["type"])("data", ctx.historyData["data"])("columnNames", ctx.historyData["columnNames"])("options", ctx.historyData["options"])("width", ctx.options.width);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](3);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("title", ctx.statesChart["chartTitle"])("type", ctx.statesChart["type"])("data", ctx.statesChart["states"])("columnNames", ctx.statesChart["columnNames"])("options", ctx.options)("width", ctx.options.width);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](3);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("width", ctx.options.width)("dataSource", ctx.indiaMapChartData);
         }
       },
-      directives: [_angular_material_button__WEBPACK_IMPORTED_MODULE_2__["MatButton"], _angular_material_icon__WEBPACK_IMPORTED_MODULE_3__["MatIcon"], _angular_material_select__WEBPACK_IMPORTED_MODULE_4__["MatSelect"], _angular_common__WEBPACK_IMPORTED_MODULE_5__["NgForOf"], angular_fusioncharts__WEBPACK_IMPORTED_MODULE_6__["FusionChartsComponent"], angular_google_charts__WEBPACK_IMPORTED_MODULE_7__["GoogleChartComponent"], _angular_router__WEBPACK_IMPORTED_MODULE_8__["RouterLinkWithHref"], _angular_material_core__WEBPACK_IMPORTED_MODULE_9__["MatOption"]],
+      directives: [_angular_material_button__WEBPACK_IMPORTED_MODULE_2__["MatButton"], _angular_material_icon__WEBPACK_IMPORTED_MODULE_3__["MatIcon"], _angular_material_select__WEBPACK_IMPORTED_MODULE_4__["MatSelect"], _angular_common__WEBPACK_IMPORTED_MODULE_5__["NgForOf"], angular_google_charts__WEBPACK_IMPORTED_MODULE_6__["GoogleChartComponent"], angular_fusioncharts__WEBPACK_IMPORTED_MODULE_7__["FusionChartsComponent"], _angular_router__WEBPACK_IMPORTED_MODULE_8__["RouterLinkWithHref"], _angular_material_core__WEBPACK_IMPORTED_MODULE_9__["MatOption"]],
       styles: ["[_nghost-%COMP%] {\n  font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\";\n  font-size: 14px;\n  color: #333;\n  box-sizing: border-box;\n  -webkit-font-smoothing: antialiased;\n  -moz-osx-font-smoothing: grayscale;\n}\n\nh1[_ngcontent-%COMP%], h2[_ngcontent-%COMP%], h3[_ngcontent-%COMP%], h4[_ngcontent-%COMP%], h5[_ngcontent-%COMP%], h6[_ngcontent-%COMP%] {\n  margin: 8px 0;\n}\n\np[_ngcontent-%COMP%] {\n  margin: 0;\n}\n\n.spacer[_ngcontent-%COMP%] {\n  flex: 1;\n}\n\n.toolbar[_ngcontent-%COMP%] {\n  position: absolute;\n  top: 0;\n  left: 0;\n  right: 0;\n  height: 60px;\n  display: flex;\n  align-items: center;\n  background-color: #1976d2;\n  color: white;\n  font-weight: 600;\n}\n\n.toolbar[_ngcontent-%COMP%]   img[_ngcontent-%COMP%] {\n  margin: 0 16px;\n}\n\n.toolbar[_ngcontent-%COMP%]   #twitter-logo[_ngcontent-%COMP%] {\n  height: 40px;\n  margin: 0 16px;\n}\n\n.toolbar[_ngcontent-%COMP%]   #twitter-logo[_ngcontent-%COMP%]:hover {\n  opacity: 0.8;\n}\n\n.content[_ngcontent-%COMP%] {\n  display: flex;\n  margin: 82px auto 32px;\n  \n  max-width: 980px;\n  flex-direction: column;\n  align-items: center;\n}\n\nsvg.material-icons[_ngcontent-%COMP%] {\n  height: 24px;\n  width: auto;\n}\n\nsvg.material-icons[_ngcontent-%COMP%]:not(:last-child) {\n  margin-right: 8px;\n}\n\n.card[_ngcontent-%COMP%]   svg.material-icons[_ngcontent-%COMP%]   path[_ngcontent-%COMP%] {\n  fill: #888;\n}\n\n.card-container[_ngcontent-%COMP%] {\n  display: flex;\n  flex-wrap: wrap;\n  justify-content: center;\n  margin-top: 16px;\n}\n\n.card[_ngcontent-%COMP%] {\n  border-radius: 4px;\n  border: 1px solid #eee;\n  background: none;\n  height: 40px;\n  margin: 0 0px 16px ;\n  padding: 16px;\n  display: flex;\n  flex-direction: row;\n  justify-content: center;\n  align-items: center;\n  transition: all 0.2s ease-in-out;\n  line-height: 24px;\n}\n\n.card-container[_ngcontent-%COMP%]   .card[_ngcontent-%COMP%]:not(:last-child) {\n  margin-right: 0;\n}\n\n.card.card-small[_ngcontent-%COMP%] {\n  height: 16px;\n}\n\n.card-container[_ngcontent-%COMP%]   .card[_ngcontent-%COMP%]:not(.highlight-card) {\n  cursor: pointer;\n}\n\n.card-container[_ngcontent-%COMP%]   .card[_ngcontent-%COMP%]:not(.highlight-card):hover {\n  transform: translateY(-3px);\n  box-shadow: 0 4px 17px rgba(black, 0.35);\n}\n\n.card-container[_ngcontent-%COMP%]   .card[_ngcontent-%COMP%]:not(.highlight-card):hover   .material-icons[_ngcontent-%COMP%]   path[_ngcontent-%COMP%] {\n  fill: rgb(105, 103, 103);\n}\n\n.card.highlight-card[_ngcontent-%COMP%] {\n  \n  background: none;\n  color: white;\n  font-weight: 600;\n  border: none;\n  width: 100%;\n  min-width: 30%;\n  position: relative;\n}\n\n.card.card.highlight-card[_ngcontent-%COMP%]   span[_ngcontent-%COMP%] {\n  margin-left: 10px;\n}\n\nsvg#rocket[_ngcontent-%COMP%] {\n  width: 80px;\n  position: absolute;\n  left: -10px;\n  top: -24px;\n}\n\nsvg#rocket-smoke[_ngcontent-%COMP%] {\n  height: calc(100vh - 95px);\n  position: absolute;\n  top: 10px;\n  right: 180px;\n  z-index: -10;\n}\n\na[_ngcontent-%COMP%], a[_ngcontent-%COMP%]:visited, a[_ngcontent-%COMP%]:hover {\n  color: #1976d2;\n  text-decoration: none;\n}\n\na[_ngcontent-%COMP%]:hover {\n  color: #125699;\n}\n\n.terminal[_ngcontent-%COMP%] {\n  position: relative;\n  width: 80%;\n  max-width: 600px;\n  border-radius: 6px;\n  padding-top: 45px;\n  margin-top: 8px;\n  overflow: hidden;\n  background-color: rgb(15, 15, 16);\n}\n\n.terminal[_ngcontent-%COMP%]::before {\n  content: \"\\2022 \\2022 \\2022\";\n  position: absolute;\n  top: 0;\n  left: 0;\n  height: 4px;\n  background: rgb(58, 58, 58);\n  color: #c2c3c4;\n  width: 100%;\n  font-size: 2rem;\n  line-height: 0;\n  padding: 14px 0;\n  text-indent: 4px;\n}\n\n.terminal[_ngcontent-%COMP%]   pre[_ngcontent-%COMP%] {\n  font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;\n  color: white;\n  padding: 0 1rem 1rem;\n  margin: 0;\n}\n\n.circle-link[_ngcontent-%COMP%] {\n  height: 40px;\n  width: 40px;\n  border-radius: 40px;\n  margin: 8px;\n  background-color: white;\n  border: 1px solid #eeeeee;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  cursor: pointer;\n  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);\n  transition: 1s ease-out;\n}\n\n.circle-link[_ngcontent-%COMP%]:hover {\n  transform: translateY(-0.25rem);\n  box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);\n}\n\nfooter[_ngcontent-%COMP%] {\n  margin-top: 8px;\n  display: flex;\n  align-items: center;\n  line-height: 20px;\n}\n\nfooter[_ngcontent-%COMP%]   a[_ngcontent-%COMP%] {\n  display: flex;\n  align-items: center;\n}\n\n.github-star-badge[_ngcontent-%COMP%] {\n  color: #24292e;\n  display: flex;\n  align-items: center;\n  font-size: 12px;\n  padding: 3px 10px;\n  border: 1px solid rgba(27,31,35,.2);\n  border-radius: 3px;\n  background-image: linear-gradient(-180deg,#fafbfc,#eff3f6 90%);\n  margin-left: 4px;\n  font-weight: 600;\n  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;\n}\n\n.github-star-badge[_ngcontent-%COMP%]:hover {\n  background-image: linear-gradient(-180deg,#f0f3f6,#e6ebf1 90%);\n  border-color: rgba(27,31,35,.35);\n  background-position: -.5em;\n}\n\n.github-star-badge[_ngcontent-%COMP%]   .material-icons[_ngcontent-%COMP%] {\n  height: 16px;\n  width: 16px;\n  margin-right: 4px;\n}\n\nsvg#clouds[_ngcontent-%COMP%] {\n  position: fixed;\n  bottom: -160px;\n  left: -230px;\n  z-index: -10;\n  width: 1920px;\n}\n\n\n\n@media screen and (max-width: 767px) {\n\n  .card-container[_ngcontent-%COMP%]    > *[_ngcontent-%COMP%]:not(.circle-link), .terminal[_ngcontent-%COMP%] {\n    width: 100%;\n  }\n\n  .card[_ngcontent-%COMP%]:not(.highlight-card) {\n    height: 16px;\n    margin: 8px 0;\n  }\n\n  .card.highlight-card[_ngcontent-%COMP%]   span[_ngcontent-%COMP%] {\n    margin-left: 72px;\n  }\n\n  svg#rocket-smoke[_ngcontent-%COMP%] {\n    right: 120px;\n    transform: rotate(-5deg);\n  }\n}\n\n@media screen and (max-width: 575px) {\n  svg#rocket-smoke[_ngcontent-%COMP%] {\n    display: none;\n    visibility: hidden;\n  }\n}\n\n.pl-1[_ngcontent-%COMP%]{\n  padding-left: 1rem;}\n\n.mb-2[_ngcontent-%COMP%]{\n  margin-bottom: 2rem;\n}\n\n.app-padding[_ngcontent-%COMP%]{\n  padding: 30px 10px;\n}\n\n  .langSelect div.mat-select-arrow-wrapper {\n  display: none;\n}\n\n  .langSelect.mat-select {\n  display: inline;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvaG9tZS9ob21lLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IjtBQUNBO0VBQ0UsMEpBQTBKO0VBQzFKLGVBQWU7RUFDZixXQUFXO0VBQ1gsc0JBQXNCO0VBQ3RCLG1DQUFtQztFQUNuQyxrQ0FBa0M7QUFDcEM7O0FBRUE7Ozs7OztFQU1FLGFBQWE7QUFDZjs7QUFFQTtFQUNFLFNBQVM7QUFDWDs7QUFFQTtFQUNFLE9BQU87QUFDVDs7QUFFQTtFQUNFLGtCQUFrQjtFQUNsQixNQUFNO0VBQ04sT0FBTztFQUNQLFFBQVE7RUFDUixZQUFZO0VBQ1osYUFBYTtFQUNiLG1CQUFtQjtFQUNuQix5QkFBeUI7RUFDekIsWUFBWTtFQUNaLGdCQUFnQjtBQUNsQjs7QUFFQTtFQUNFLGNBQWM7QUFDaEI7O0FBRUE7RUFDRSxZQUFZO0VBQ1osY0FBYztBQUNoQjs7QUFFQTtFQUNFLFlBQVk7QUFDZDs7QUFFQTtFQUNFLGFBQWE7RUFDYixzQkFBc0I7RUFDdEIsbUJBQW1CO0VBQ25CLGdCQUFnQjtFQUNoQixzQkFBc0I7RUFDdEIsbUJBQW1CO0FBQ3JCOztBQUVBO0VBQ0UsWUFBWTtFQUNaLFdBQVc7QUFDYjs7QUFFQTtFQUNFLGlCQUFpQjtBQUNuQjs7QUFFQTtFQUNFLFVBQVU7QUFDWjs7QUFFQTtFQUNFLGFBQWE7RUFDYixlQUFlO0VBQ2YsdUJBQXVCO0VBQ3ZCLGdCQUFnQjtBQUNsQjs7QUFFQTtFQUNFLGtCQUFrQjtFQUNsQixzQkFBc0I7RUFDdEIsZ0JBQWdCO0VBQ2hCLFlBQVk7RUFDWixtQkFBbUI7RUFDbkIsYUFBYTtFQUNiLGFBQWE7RUFDYixtQkFBbUI7RUFDbkIsdUJBQXVCO0VBQ3ZCLG1CQUFtQjtFQUNuQixnQ0FBZ0M7RUFDaEMsaUJBQWlCO0FBQ25COztBQUVBO0VBQ0UsZUFBZTtBQUNqQjs7QUFFQTtFQUNFLFlBQVk7QUFDZDs7QUFFQTtFQUNFLGVBQWU7QUFDakI7O0FBRUE7RUFDRSwyQkFBMkI7RUFDM0Isd0NBQXdDO0FBQzFDOztBQUVBO0VBQ0Usd0JBQXdCO0FBQzFCOztBQUVBO0VBQ0UsNkJBQTZCO0VBQzdCLGdCQUFnQjtFQUNoQixZQUFZO0VBQ1osZ0JBQWdCO0VBQ2hCLFlBQVk7RUFDWixXQUFXO0VBQ1gsY0FBYztFQUNkLGtCQUFrQjtBQUNwQjs7QUFFQTtFQUNFLGlCQUFpQjtBQUNuQjs7QUFFQTtFQUNFLFdBQVc7RUFDWCxrQkFBa0I7RUFDbEIsV0FBVztFQUNYLFVBQVU7QUFDWjs7QUFFQTtFQUNFLDBCQUEwQjtFQUMxQixrQkFBa0I7RUFDbEIsU0FBUztFQUNULFlBQVk7RUFDWixZQUFZO0FBQ2Q7O0FBRUE7OztFQUdFLGNBQWM7RUFDZCxxQkFBcUI7QUFDdkI7O0FBRUE7RUFDRSxjQUFjO0FBQ2hCOztBQUVBO0VBQ0Usa0JBQWtCO0VBQ2xCLFVBQVU7RUFDVixnQkFBZ0I7RUFDaEIsa0JBQWtCO0VBQ2xCLGlCQUFpQjtFQUNqQixlQUFlO0VBQ2YsZ0JBQWdCO0VBQ2hCLGlDQUFpQztBQUNuQzs7QUFFQTtFQUNFLDRCQUE0QjtFQUM1QixrQkFBa0I7RUFDbEIsTUFBTTtFQUNOLE9BQU87RUFDUCxXQUFXO0VBQ1gsMkJBQTJCO0VBQzNCLGNBQWM7RUFDZCxXQUFXO0VBQ1gsZUFBZTtFQUNmLGNBQWM7RUFDZCxlQUFlO0VBQ2YsZ0JBQWdCO0FBQ2xCOztBQUVBO0VBQ0Usb0VBQW9FO0VBQ3BFLFlBQVk7RUFDWixvQkFBb0I7RUFDcEIsU0FBUztBQUNYOztBQUVBO0VBQ0UsWUFBWTtFQUNaLFdBQVc7RUFDWCxtQkFBbUI7RUFDbkIsV0FBVztFQUNYLHVCQUF1QjtFQUN2Qix5QkFBeUI7RUFDekIsYUFBYTtFQUNiLHVCQUF1QjtFQUN2QixtQkFBbUI7RUFDbkIsZUFBZTtFQUNmLHdFQUF3RTtFQUN4RSx1QkFBdUI7QUFDekI7O0FBRUE7RUFDRSwrQkFBK0I7RUFDL0IsMkNBQTJDO0FBQzdDOztBQUVBO0VBQ0UsZUFBZTtFQUNmLGFBQWE7RUFDYixtQkFBbUI7RUFDbkIsaUJBQWlCO0FBQ25COztBQUVBO0VBQ0UsYUFBYTtFQUNiLG1CQUFtQjtBQUNyQjs7QUFFQTtFQUNFLGNBQWM7RUFDZCxhQUFhO0VBQ2IsbUJBQW1CO0VBQ25CLGVBQWU7RUFDZixpQkFBaUI7RUFDakIsbUNBQW1DO0VBQ25DLGtCQUFrQjtFQUNsQiw4REFBOEQ7RUFDOUQsZ0JBQWdCO0VBQ2hCLGdCQUFnQjtFQUNoQixrSUFBa0k7QUFDcEk7O0FBRUE7RUFDRSw4REFBOEQ7RUFDOUQsZ0NBQWdDO0VBQ2hDLDBCQUEwQjtBQUM1Qjs7QUFFQTtFQUNFLFlBQVk7RUFDWixXQUFXO0VBQ1gsaUJBQWlCO0FBQ25COztBQUVBO0VBQ0UsZUFBZTtFQUNmLGNBQWM7RUFDZCxZQUFZO0VBQ1osWUFBWTtFQUNaLGFBQWE7QUFDZjs7QUFHQSxzQkFBc0I7O0FBQ3RCOztFQUVFOztJQUVFLFdBQVc7RUFDYjs7RUFFQTtJQUNFLFlBQVk7SUFDWixhQUFhO0VBQ2Y7O0VBRUE7SUFDRSxpQkFBaUI7RUFDbkI7O0VBRUE7SUFDRSxZQUFZO0lBQ1osd0JBQXdCO0VBQzFCO0FBQ0Y7O0FBRUE7RUFDRTtJQUNFLGFBQWE7SUFDYixrQkFBa0I7RUFDcEI7QUFDRjs7QUFDQTtFQUNFLGtCQUFrQixDQUFDOztBQUNyQjtFQUNFLG1CQUFtQjtBQUNyQjs7QUFDQTtFQUNFLGtCQUFrQjtBQUNwQjs7QUFDQTtFQUNFLGFBQWE7QUFDZjs7QUFFQTtFQUNFLGVBQWU7QUFDakIiLCJmaWxlIjoic3JjL2FwcC9ob21lL2hvbWUuY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbIlxuOmhvc3Qge1xuICBmb250LWZhbWlseTogLWFwcGxlLXN5c3RlbSwgQmxpbmtNYWNTeXN0ZW1Gb250LCBcIlNlZ29lIFVJXCIsIFJvYm90bywgSGVsdmV0aWNhLCBBcmlhbCwgc2Fucy1zZXJpZiwgXCJBcHBsZSBDb2xvciBFbW9qaVwiLCBcIlNlZ29lIFVJIEVtb2ppXCIsIFwiU2Vnb2UgVUkgU3ltYm9sXCI7XG4gIGZvbnQtc2l6ZTogMTRweDtcbiAgY29sb3I6ICMzMzM7XG4gIGJveC1zaXppbmc6IGJvcmRlci1ib3g7XG4gIC13ZWJraXQtZm9udC1zbW9vdGhpbmc6IGFudGlhbGlhc2VkO1xuICAtbW96LW9zeC1mb250LXNtb290aGluZzogZ3JheXNjYWxlO1xufVxuXG5oMSxcbmgyLFxuaDMsXG5oNCxcbmg1LFxuaDYge1xuICBtYXJnaW46IDhweCAwO1xufVxuXG5wIHtcbiAgbWFyZ2luOiAwO1xufVxuXG4uc3BhY2VyIHtcbiAgZmxleDogMTtcbn1cblxuLnRvb2xiYXIge1xuICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gIHRvcDogMDtcbiAgbGVmdDogMDtcbiAgcmlnaHQ6IDA7XG4gIGhlaWdodDogNjBweDtcbiAgZGlzcGxheTogZmxleDtcbiAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgYmFja2dyb3VuZC1jb2xvcjogIzE5NzZkMjtcbiAgY29sb3I6IHdoaXRlO1xuICBmb250LXdlaWdodDogNjAwO1xufVxuXG4udG9vbGJhciBpbWcge1xuICBtYXJnaW46IDAgMTZweDtcbn1cblxuLnRvb2xiYXIgI3R3aXR0ZXItbG9nbyB7XG4gIGhlaWdodDogNDBweDtcbiAgbWFyZ2luOiAwIDE2cHg7XG59XG5cbi50b29sYmFyICN0d2l0dGVyLWxvZ286aG92ZXIge1xuICBvcGFjaXR5OiAwLjg7XG59XG5cbi5jb250ZW50IHtcbiAgZGlzcGxheTogZmxleDtcbiAgbWFyZ2luOiA4MnB4IGF1dG8gMzJweDtcbiAgLypwYWRkaW5nOiAwIDE2cHg7Ki9cbiAgbWF4LXdpZHRoOiA5ODBweDtcbiAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjtcbiAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbn1cblxuc3ZnLm1hdGVyaWFsLWljb25zIHtcbiAgaGVpZ2h0OiAyNHB4O1xuICB3aWR0aDogYXV0bztcbn1cblxuc3ZnLm1hdGVyaWFsLWljb25zOm5vdCg6bGFzdC1jaGlsZCkge1xuICBtYXJnaW4tcmlnaHQ6IDhweDtcbn1cblxuLmNhcmQgc3ZnLm1hdGVyaWFsLWljb25zIHBhdGgge1xuICBmaWxsOiAjODg4O1xufVxuXG4uY2FyZC1jb250YWluZXIge1xuICBkaXNwbGF5OiBmbGV4O1xuICBmbGV4LXdyYXA6IHdyYXA7XG4gIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICBtYXJnaW4tdG9wOiAxNnB4O1xufVxuXG4uY2FyZCB7XG4gIGJvcmRlci1yYWRpdXM6IDRweDtcbiAgYm9yZGVyOiAxcHggc29saWQgI2VlZTtcbiAgYmFja2dyb3VuZDogbm9uZTtcbiAgaGVpZ2h0OiA0MHB4O1xuICBtYXJnaW46IDAgMHB4IDE2cHggO1xuICBwYWRkaW5nOiAxNnB4O1xuICBkaXNwbGF5OiBmbGV4O1xuICBmbGV4LWRpcmVjdGlvbjogcm93O1xuICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgdHJhbnNpdGlvbjogYWxsIDAuMnMgZWFzZS1pbi1vdXQ7XG4gIGxpbmUtaGVpZ2h0OiAyNHB4O1xufVxuXG4uY2FyZC1jb250YWluZXIgLmNhcmQ6bm90KDpsYXN0LWNoaWxkKSB7XG4gIG1hcmdpbi1yaWdodDogMDtcbn1cblxuLmNhcmQuY2FyZC1zbWFsbCB7XG4gIGhlaWdodDogMTZweDtcbn1cblxuLmNhcmQtY29udGFpbmVyIC5jYXJkOm5vdCguaGlnaGxpZ2h0LWNhcmQpIHtcbiAgY3Vyc29yOiBwb2ludGVyO1xufVxuXG4uY2FyZC1jb250YWluZXIgLmNhcmQ6bm90KC5oaWdobGlnaHQtY2FyZCk6aG92ZXIge1xuICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoLTNweCk7XG4gIGJveC1zaGFkb3c6IDAgNHB4IDE3cHggcmdiYShibGFjaywgMC4zNSk7XG59XG5cbi5jYXJkLWNvbnRhaW5lciAuY2FyZDpub3QoLmhpZ2hsaWdodC1jYXJkKTpob3ZlciAubWF0ZXJpYWwtaWNvbnMgcGF0aCB7XG4gIGZpbGw6IHJnYigxMDUsIDEwMywgMTAzKTtcbn1cblxuLmNhcmQuaGlnaGxpZ2h0LWNhcmQge1xuICAvKmJhY2tncm91bmQtY29sb3I6ICMxOTc2ZDI7Ki9cbiAgYmFja2dyb3VuZDogbm9uZTtcbiAgY29sb3I6IHdoaXRlO1xuICBmb250LXdlaWdodDogNjAwO1xuICBib3JkZXI6IG5vbmU7XG4gIHdpZHRoOiAxMDAlO1xuICBtaW4td2lkdGg6IDMwJTtcbiAgcG9zaXRpb246IHJlbGF0aXZlO1xufVxuXG4uY2FyZC5jYXJkLmhpZ2hsaWdodC1jYXJkIHNwYW4ge1xuICBtYXJnaW4tbGVmdDogMTBweDtcbn1cblxuc3ZnI3JvY2tldCB7XG4gIHdpZHRoOiA4MHB4O1xuICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gIGxlZnQ6IC0xMHB4O1xuICB0b3A6IC0yNHB4O1xufVxuXG5zdmcjcm9ja2V0LXNtb2tlIHtcbiAgaGVpZ2h0OiBjYWxjKDEwMHZoIC0gOTVweCk7XG4gIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgdG9wOiAxMHB4O1xuICByaWdodDogMTgwcHg7XG4gIHotaW5kZXg6IC0xMDtcbn1cblxuYSxcbmE6dmlzaXRlZCxcbmE6aG92ZXIge1xuICBjb2xvcjogIzE5NzZkMjtcbiAgdGV4dC1kZWNvcmF0aW9uOiBub25lO1xufVxuXG5hOmhvdmVyIHtcbiAgY29sb3I6ICMxMjU2OTk7XG59XG5cbi50ZXJtaW5hbCB7XG4gIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgd2lkdGg6IDgwJTtcbiAgbWF4LXdpZHRoOiA2MDBweDtcbiAgYm9yZGVyLXJhZGl1czogNnB4O1xuICBwYWRkaW5nLXRvcDogNDVweDtcbiAgbWFyZ2luLXRvcDogOHB4O1xuICBvdmVyZmxvdzogaGlkZGVuO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2IoMTUsIDE1LCAxNik7XG59XG5cbi50ZXJtaW5hbDo6YmVmb3JlIHtcbiAgY29udGVudDogXCJcXDIwMjIgXFwyMDIyIFxcMjAyMlwiO1xuICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gIHRvcDogMDtcbiAgbGVmdDogMDtcbiAgaGVpZ2h0OiA0cHg7XG4gIGJhY2tncm91bmQ6IHJnYig1OCwgNTgsIDU4KTtcbiAgY29sb3I6ICNjMmMzYzQ7XG4gIHdpZHRoOiAxMDAlO1xuICBmb250LXNpemU6IDJyZW07XG4gIGxpbmUtaGVpZ2h0OiAwO1xuICBwYWRkaW5nOiAxNHB4IDA7XG4gIHRleHQtaW5kZW50OiA0cHg7XG59XG5cbi50ZXJtaW5hbCBwcmUge1xuICBmb250LWZhbWlseTogU0ZNb25vLVJlZ3VsYXIsQ29uc29sYXMsTGliZXJhdGlvbiBNb25vLE1lbmxvLG1vbm9zcGFjZTtcbiAgY29sb3I6IHdoaXRlO1xuICBwYWRkaW5nOiAwIDFyZW0gMXJlbTtcbiAgbWFyZ2luOiAwO1xufVxuXG4uY2lyY2xlLWxpbmsge1xuICBoZWlnaHQ6IDQwcHg7XG4gIHdpZHRoOiA0MHB4O1xuICBib3JkZXItcmFkaXVzOiA0MHB4O1xuICBtYXJnaW46IDhweDtcbiAgYmFja2dyb3VuZC1jb2xvcjogd2hpdGU7XG4gIGJvcmRlcjogMXB4IHNvbGlkICNlZWVlZWU7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICBhbGlnbi1pdGVtczogY2VudGVyO1xuICBjdXJzb3I6IHBvaW50ZXI7XG4gIGJveC1zaGFkb3c6IDAgMXB4IDNweCByZ2JhKDAsIDAsIDAsIDAuMTIpLCAwIDFweCAycHggcmdiYSgwLCAwLCAwLCAwLjI0KTtcbiAgdHJhbnNpdGlvbjogMXMgZWFzZS1vdXQ7XG59XG5cbi5jaXJjbGUtbGluazpob3ZlciB7XG4gIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgtMC4yNXJlbSk7XG4gIGJveC1zaGFkb3c6IDBweCAzcHggMTVweCByZ2JhKDAsIDAsIDAsIDAuMik7XG59XG5cbmZvb3RlciB7XG4gIG1hcmdpbi10b3A6IDhweDtcbiAgZGlzcGxheTogZmxleDtcbiAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgbGluZS1oZWlnaHQ6IDIwcHg7XG59XG5cbmZvb3RlciBhIHtcbiAgZGlzcGxheTogZmxleDtcbiAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbn1cblxuLmdpdGh1Yi1zdGFyLWJhZGdlIHtcbiAgY29sb3I6ICMyNDI5MmU7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gIGZvbnQtc2l6ZTogMTJweDtcbiAgcGFkZGluZzogM3B4IDEwcHg7XG4gIGJvcmRlcjogMXB4IHNvbGlkIHJnYmEoMjcsMzEsMzUsLjIpO1xuICBib3JkZXItcmFkaXVzOiAzcHg7XG4gIGJhY2tncm91bmQtaW1hZ2U6IGxpbmVhci1ncmFkaWVudCgtMTgwZGVnLCNmYWZiZmMsI2VmZjNmNiA5MCUpO1xuICBtYXJnaW4tbGVmdDogNHB4O1xuICBmb250LXdlaWdodDogNjAwO1xuICBmb250LWZhbWlseTogLWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsU2Vnb2UgVUksSGVsdmV0aWNhLEFyaWFsLHNhbnMtc2VyaWYsQXBwbGUgQ29sb3IgRW1vamksU2Vnb2UgVUkgRW1vamksU2Vnb2UgVUkgU3ltYm9sO1xufVxuXG4uZ2l0aHViLXN0YXItYmFkZ2U6aG92ZXIge1xuICBiYWNrZ3JvdW5kLWltYWdlOiBsaW5lYXItZ3JhZGllbnQoLTE4MGRlZywjZjBmM2Y2LCNlNmViZjEgOTAlKTtcbiAgYm9yZGVyLWNvbG9yOiByZ2JhKDI3LDMxLDM1LC4zNSk7XG4gIGJhY2tncm91bmQtcG9zaXRpb246IC0uNWVtO1xufVxuXG4uZ2l0aHViLXN0YXItYmFkZ2UgLm1hdGVyaWFsLWljb25zIHtcbiAgaGVpZ2h0OiAxNnB4O1xuICB3aWR0aDogMTZweDtcbiAgbWFyZ2luLXJpZ2h0OiA0cHg7XG59XG5cbnN2ZyNjbG91ZHMge1xuICBwb3NpdGlvbjogZml4ZWQ7XG4gIGJvdHRvbTogLTE2MHB4O1xuICBsZWZ0OiAtMjMwcHg7XG4gIHotaW5kZXg6IC0xMDtcbiAgd2lkdGg6IDE5MjBweDtcbn1cblxuXG4vKiBSZXNwb25zaXZlIFN0eWxlcyAqL1xuQG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogNzY3cHgpIHtcblxuICAuY2FyZC1jb250YWluZXIgPiAqOm5vdCguY2lyY2xlLWxpbmspICxcbiAgLnRlcm1pbmFsIHtcbiAgICB3aWR0aDogMTAwJTtcbiAgfVxuXG4gIC5jYXJkOm5vdCguaGlnaGxpZ2h0LWNhcmQpIHtcbiAgICBoZWlnaHQ6IDE2cHg7XG4gICAgbWFyZ2luOiA4cHggMDtcbiAgfVxuXG4gIC5jYXJkLmhpZ2hsaWdodC1jYXJkIHNwYW4ge1xuICAgIG1hcmdpbi1sZWZ0OiA3MnB4O1xuICB9XG5cbiAgc3ZnI3JvY2tldC1zbW9rZSB7XG4gICAgcmlnaHQ6IDEyMHB4O1xuICAgIHRyYW5zZm9ybTogcm90YXRlKC01ZGVnKTtcbiAgfVxufVxuXG5AbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA1NzVweCkge1xuICBzdmcjcm9ja2V0LXNtb2tlIHtcbiAgICBkaXNwbGF5OiBub25lO1xuICAgIHZpc2liaWxpdHk6IGhpZGRlbjtcbiAgfVxufVxuLnBsLTF7XG4gIHBhZGRpbmctbGVmdDogMXJlbTt9XG4ubWItMntcbiAgbWFyZ2luLWJvdHRvbTogMnJlbTtcbn1cbi5hcHAtcGFkZGluZ3tcbiAgcGFkZGluZzogMzBweCAxMHB4O1xufVxuOjpuZy1kZWVwIC5sYW5nU2VsZWN0IGRpdi5tYXQtc2VsZWN0LWFycm93LXdyYXBwZXIge1xuICBkaXNwbGF5OiBub25lO1xufVxuXG46Om5nLWRlZXAgLmxhbmdTZWxlY3QubWF0LXNlbGVjdCB7XG4gIGRpc3BsYXk6IGlubGluZTtcbn1cbiJdfQ== */"]
     });
     /*@__PURE__*/
