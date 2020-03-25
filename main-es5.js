@@ -1305,6 +1305,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         value: function getHistory(country) {
           var _this3 = this;
 
+          this.historyData['title'] = 'Reported Case History of ' + country;
           this.covidDataService.getHistory(country).subscribe(function (data) {
             _this3.historyData['data'] = data;
           }, function (er) {

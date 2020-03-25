@@ -845,6 +845,7 @@ class HomeComponent {
         this.getHistory(this.country);
     }
     getHistory(country) {
+        this.historyData['title'] = 'Reported Case History of ' + country;
         this.covidDataService.getHistory(country).subscribe((data) => { this.historyData['data'] = data; }, (er) => console.log(er));
     }
     getStatesSegrigatedData() {
